@@ -20,7 +20,7 @@ Nuestro curso se divide en los siguientes tópicos los cuales contienen diversos
 
 ### 1. Programación Orientada a Objetos
 
-En el tutorial se hace una exposición de contenido desde un punto de vista teórico, práctico a partir de ejemplos y luego es posible realizar ejercicios y verificar el resultado ejecutando diversos test unitarios. La exposición del contenido se encuentra en la siguiente ruta [1_programacion_orientada_a_objetos/1contenido.md](./1_programacion_orientada_a_objetos/1contenido.md). Es posible realizar ejercicios sobre los siguientes tópicos Encapsulamiento, Herencia y Polimorfismo que estan ubicados en la siguiente ruta: [1_programacion_orientada_a_objetos/2actividaddes.md](./1_programacion_orientada_a_objetos/2actividades.md)
+En el tutorial se hace una exposición de contenido desde un punto de vista teórico y práctico a partir de ejemplos para luego realizar ejercicios y verificar el resultado ejecutando diversos test unitarios. La exposición del contenido se encuentra en la siguiente ruta [1_programacion_orientada_a_objetos/1contenido.md](./1_programacion_orientada_a_objetos/1contenido.md). Es posible realizar ejercicios sobre los siguientes tópicos Encapsulamiento, Herencia y Polimorfismo que estan ubicados en la siguiente ruta: [1_programacion_orientada_a_objetos/2actividades.md](./1_programacion_orientada_a_objetos/2actividades.md)
 
 ### 2.Estructuras de Datos y Sentencias Iterativas
 
