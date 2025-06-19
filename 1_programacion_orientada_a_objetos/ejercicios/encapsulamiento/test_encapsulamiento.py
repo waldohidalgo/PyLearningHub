@@ -2,7 +2,7 @@ import unittest
 import sys
 import importlib
 
-# Obtener nombre del módulo desde argumentos
+
 if len(sys.argv) < 2:
     print("Uso: python test_encapsulamiento.py <nombre_modulo>")
     sys.exit(1)
@@ -11,7 +11,7 @@ modulo_nombre = sys.argv[1]
 modulo = importlib.import_module(modulo_nombre)
 Producto = getattr(modulo, "Producto")
 
-# Eliminar el nombre del módulo de los argumentos de unittest
+
 sys.argv = sys.argv[:1]
 
 class TestProducto(unittest.TestCase):

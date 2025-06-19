@@ -32,11 +32,10 @@ Nuestro curso se divide en los siguientes tópicos los cuales contienen diversos
 
 ## Requisitos
 
-> Requisitos
-> Lenguaje: Python
+- Lenguaje: Python
 
-> Versión recomendada: Python 3.12.3
+- Versión recomendada: Python 3.12.3
 
-> Este tutorial fue desarrollado y probado usando esta versión.
+- Este tutorial fue desarrollado y probado usando esta versión.
 
-> Otros entornos con Python 3.10+ deberían funcionar correctamente, aunque algunas características podrían variar levemente.
+- Otros entornos con Python 3.10+ deberían funcionar correctamente, aunque algunas características podrían variar levemente.

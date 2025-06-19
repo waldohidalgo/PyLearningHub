@@ -121,4 +121,49 @@ print(cuenta.__saldo) # AttributeError: 'Cuenta' object has no attribute '__sald
 
 ## 3.Herencia
 
+La herencia permite crear una clase nueva (subclase o clase hija) que hereda los atributos y métodos de otra clase (superclase o clase padre), y opcionalmente puede extenderlos o modificarlos. Permitiendo realizar:
+
+- Reutilización de código.
+
+- Organización jerárquica.
+
+- Flexibilidad para personalizar comportamientos.
+
+La sintaxis básica de herencia es la siguiente:
+
+```py
+class ClasePadre:
+    # atributos y métodos de la clase padre
+    pass
+
+class ClaseHija(ClasePadre):
+    # hereda todo de ClasePadre
+    # puede agregar o sobreescribir cosas
+    pass
+
+```
+
+En la herencia, el método `super()` permite llamar a métodos de la clase padre desde una subclase, sin tener que escribir directamente el nombre de la clase base. Es utilizado para inicialiar atributos base o extender métodos. El siguiente ejemplo muestra el uso del método `super`:
+
+```py
+class Empleado:
+    def __init__(self, nombre, sueldo):
+        self.nombre = nombre
+        self.sueldo = sueldo
+
+    def informacion(self):
+        return f"Empleado: {self.nombre} - Sueldo: {self.sueldo}"
+
+class Gerente(Empleado):
+    def __init__(self, nombre, sueldo, departamento):
+        super().__init__(nombre, sueldo)
+        self.departamento = departamento
+
+    def informacion(self):
+        return f"Gerente: {self.nombre} - Sueldo: {self.sueldo} - Departamento: {self.departamento}"
+
+```
+
+El Gerente hereda de la clase empleado los atributos `nombre` y `sueldo` y sobreescribe el método `informacion`.
+
 ## 4.Polimorfismo
