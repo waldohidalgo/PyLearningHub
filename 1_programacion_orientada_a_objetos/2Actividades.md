@@ -8,6 +8,8 @@
     - [Ejecución correcta de pruebas unitarias](#ejecución-correcta-de-pruebas-unitarias)
   - [Herencia](#herencia)
     - [Ejecución correcta de pruebas unitarias](#ejecución-correcta-de-pruebas-unitarias-1)
+  - [Polimorfismo](#polimorfismo)
+    - [Ejecución correcta de pruebas unitarias](#ejecución-correcta-de-pruebas-unitarias-2)
 
 ## Encapsulamiento
 
@@ -64,3 +66,31 @@ Una vez hayas realizado la actividad puedes visualizar una posible solución en 
 Si has aprobado todos los test unitarios, se debería mostrar lo siguiente en consola:
 
 ![Resultados Correctos Test Unitarios Herencia](./ejercicios/herencia/resultados_pruebas_correctas.webp)
+
+## Polimorfismo
+
+En la carpeta `ejercicios\polimorfismo` en esta misma ruta, se encuentra el archivo llamado **polimorfismo** en el cual deberás crear una clase base **Empleado** con un método **calcular_bonus()** que devuelva 0.
+
+Luego crea dos subclases:
+
+- Desarrollador, que tiene un sueldo base y su bonus es el 20% del sueldo.
+
+- Gerente, que tiene un sueldo base y su bonus es el 50% del sueldo.
+
+Ambas clases deben sobrescribir calcular_bonus().
+
+Finalmente, crea una función llamada **calcular_total_bonos** que reciba una lista de empleados y calcule el total de bonos.
+
+Una vez hayas creado la clase y sus métodos, deberás ejecutar los test unitarios para validar correctamente la implementación. En la consola de comandos deberás ejecutar el siguiente comando posicionado en dicha ruta:
+
+```
+py test_polimorfismo.py polimorfismo
+```
+
+Una vez hayas realizado la actividad puedes visualizar una posible solución en el archivo ubicado en esta ruta: [`1_programacion_orientada_a_objetos/soluciones/polimorfismo/solucion.py`](./soluciones/polimorfismo/solucion.py)
+
+### Ejecución correcta de pruebas unitarias
+
+Si has aprobado todos los test unitarios, se debería mostrar lo siguiente en consola:
+
+![Resultados Correctos Test Unitarios Polimorfismo](./ejercicios/polimorfismo/resultado_test_unitarios_polimorfismo.jpg)

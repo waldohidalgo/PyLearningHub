@@ -167,3 +167,19 @@ class Gerente(Empleado):
 El Gerente hereda de la clase empleado los atributos `nombre` y `sueldo` y sobreescribe el método `informacion`.
 
 ## 4.Polimorfismo
+
+Polimorfismo (del griego "muchas formas") permite que múltiples clases diferentes respondan a los mismos métodos, aunque cada una lo haga a su manera. A continuación se definen multiples clases que implementan un método llamado `descripcion` pero difieren en su implementación:
+
+```py
+class Animal:
+    def descripcion(self):
+        return "Este es un animal."
+
+class Perro(Animal):
+    def descripcion(self):
+        return "Este es un perro."
+
+class Gato(Animal):
+    def descripcion(self):
+        return "Este es un gato."
+```
