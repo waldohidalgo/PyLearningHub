@@ -39,7 +39,7 @@ Una vez hayas realizado la actividad puedes visualizar una posible solución en 
 
 ### Ejecución correcta de pruebas unitarias
 
-Si has aprobado todos los test unitarios, se debería mostrar lo siguiente en consola:
+Si has aprobado todos los test unitarios, se debe mostrar el siguiente output en consola:
 
 ![Resultados Correctos Test Unitarios Encapsulamiento](./ejercicios/encapsulamiento/resultado_test_unitarios_encapsulamiento.webp)
 
@@ -63,7 +63,7 @@ Una vez hayas realizado la actividad puedes visualizar una posible solución en 
 
 ### Ejecución correcta de pruebas unitarias
 
-Si has aprobado todos los test unitarios, se debería mostrar lo siguiente en consola:
+Si has aprobado todos los test unitarios, se debe mostrar el siguiente output en consola:
 
 ![Resultados Correctos Test Unitarios Herencia](./ejercicios/herencia/resultados_pruebas_correctas.webp)
 
@@ -91,6 +91,6 @@ Una vez hayas realizado la actividad puedes visualizar una posible solución en 
 
 ### Ejecución correcta de pruebas unitarias
 
-Si has aprobado todos los test unitarios, se debería mostrar lo siguiente en consola:
+Si has aprobado todos los test unitarios, se debe mostrar el siguiente output en consola:
 
-![Resultados Correctos Test Unitarios Polimorfismo](./ejercicios/polimorfismo/resultado_test_unitarios_polimorfismo.jpg)
+![Resultados Correctos Test Unitarios Polimorfismo](./ejercicios/polimorfismo/resultado_test_unitarios_polimorfismo.webp)

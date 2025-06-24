@@ -1,3 +1,13 @@
+# Tabla de Contenido
+
+- [Tabla de Contenido](#tabla-de-contenido)
+- [Clases en Python](#clases-en-python)
+  - [1.Creación de Clase](#1creación-de-clase)
+    - [Ejemplo: Creacion de Clase e instanciación de objeto](#ejemplo-creacion-de-clase-e-instanciación-de-objeto)
+  - [2.Encapsulamiento](#2encapsulamiento)
+  - [3.Herencia](#3herencia)
+  - [4.Polimorfismo](#4polimorfismo)
+
 # Clases en Python
 
 Las clases son una forma de agrupar datos y funcionalidades en una sola entidad desde la cual es posible crear un nuevo tipo de objeto a partir de la creación de **instancias** de dicho tipo. En Python, las clases se definen utilizando la palabra clave `class`. Dentro de la clase se definen los atributos(datos) y métodos(funcionalidad) que cada instancia de la clase tendrá. Los atributos son variables que se crean dentro de la clase y pueden ser accedidas por los métodos de la clase. Los métodos son funciones que se definen dentro de la clase y que pueden acceder y modificar los atributos de la clase.
