@@ -18,11 +18,15 @@ Nuestro curso se divide en los siguientes tópicos los cuales contienen diversos
 
 ## Capítulos del Tutorial
 
+En el tutorial se hace una exposición de contenido desde un punto de vista teórico y práctico a partir de ejemplos para luego realizar ejercicios y verificar el resultado ejecutando diversos test unitarios.
+
 ### 1. Programación Orientada a Objetos
 
-En el tutorial se hace una exposición de contenido desde un punto de vista teórico y práctico a partir de ejemplos para luego realizar ejercicios y verificar el resultado ejecutando diversos test unitarios. La exposición del contenido se encuentra en la siguiente ruta [1_programacion_orientada_a_objetos/1contenido.md](./1_programacion_orientada_a_objetos/1contenido.md). Es posible realizar ejercicios sobre los siguientes tópicos Encapsulamiento, Herencia y Polimorfismo que estan ubicados en la siguiente ruta: [1_programacion_orientada_a_objetos/2actividades.md](./1_programacion_orientada_a_objetos/2actividades.md)
+La exposición del contenido se encuentra en la siguiente ruta [1_programacion_orientada_a_objetos/1contenido.md](./1_programacion_orientada_a_objetos/1contenido.md). Es posible realizar ejercicios sobre los siguientes tópicos Encapsulamiento, Herencia y Polimorfismo que estan ubicados en la siguiente ruta: [1_programacion_orientada_a_objetos/2actividades.md](./1_programacion_orientada_a_objetos/2actividades.md)
 
 ### 2.Estructuras de Datos y Sentencias Iterativas
+
+El contenido se encuentra disponible en la siguiente ruta [2_estructuras_de_datos_y_sentencias_iterativas/1contenido.md](./2_estructuras_de_datos_y_sentencias_iterativas/1contenido.md). A continuación, es posible realizar diversos ejercicios disponible en la siguiente ruta: [2_estructuras_de_datos_y_sentencias_iterativas/2actividades.md](./2_estructuras_de_datos_y_sentencias_iterativas/2actividades.md)
 
 ### 3.Funciones y Módulos
 
