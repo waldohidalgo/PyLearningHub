@@ -30,6 +30,8 @@ El contenido se encuentra disponible en la siguiente ruta [2_estructuras_de_dato
 
 ### 3.Funciones y Módulos
 
+El contenido se encuentra disponible en la siguiente ruta [3_funciones_y_modulos/1contenido.md](./3_funciones_y_modulos/1contenido.md). A continuación, es posible realizar diversos ejercicios disponible en la siguiente ruta: [3_funciones_y_modulos/2actividades.md](./3_funciones_y_modulos/2actividades.md)
+
 ### 4.Manejo de Excepciones
 
 ### 5.Sentencias Básicas del Lenguaje Python
