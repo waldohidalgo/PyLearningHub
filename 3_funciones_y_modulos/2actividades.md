@@ -11,7 +11,7 @@
 
 ## Ejercicio 1: Función para convertir grados Celsius a Fahrenheit
 
-En el archivo `ejercicios/1_conversion_celsius/ejercicio` crea una función llamada `celsius_a_fahrenheit` que convierta grados celsius a fahrenheit.
+En el archivo `ejercicios/1_conversion_celsius/ejercicio.py` crea una función llamada `celsius_a_fahrenheit` que convierta grados celsius a fahrenheit.
 
 ### Ejecución de tests unitarios
 
@@ -27,7 +27,7 @@ Si has aprobado todos los tests, entonces se debe mostrar el siguiente output en
 
 ## Ejercicio 2: Función para lanzar n dados
 
-En el archivo `ejercicios/2_lanzar_dados/ejercicio` crea una función llamada `lanzar_dados` que dado el ingreso de un número n de dados retorne una lista con valores aleatorios entre 1 y 6. Para ello utiliza un `import` de la librería `random`.
+En el archivo `ejercicios/2_lanzar_dados/ejercicio.py` crea una función llamada `lanzar_dados` que dado el ingreso de un número n de dados retorne una lista con valores aleatorios entre 1 y 6. Para ello utiliza un `import` de la librería `random`.
 
 ### Ejecución de tests unitarios
 

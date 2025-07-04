@@ -22,17 +22,27 @@ En el tutorial se hace una exposición de contenido desde un punto de vista teó
 
 ### 1. Programación Orientada a Objetos
 
-La exposición del contenido se encuentra en la siguiente ruta [1_programacion_orientada_a_objetos/1contenido.md](./1_programacion_orientada_a_objetos/1contenido.md). Es posible realizar ejercicios sobre los siguientes tópicos Encapsulamiento, Herencia y Polimorfismo que estan ubicados en la siguiente ruta: [1_programacion_orientada_a_objetos/2actividades.md](./1_programacion_orientada_a_objetos/2actividades.md)
+- El contenido se encuentra disponible en la siguiente ruta: [1_programacion_orientada_a_objetos/1contenido.md](./1_programacion_orientada_a_objetos/1contenido.md)
+
+- Los ejercicios y la descripción de los ejercicios se encuentran disponible en la siguiente ruta: [1_programacion_orientada_a_objetos/2actividades.md](./1_programacion_orientada_a_objetos/2actividades.md)
 
 ### 2.Estructuras de Datos y Sentencias Iterativas
 
-El contenido se encuentra disponible en la siguiente ruta [2_estructuras_de_datos_y_sentencias_iterativas/1contenido.md](./2_estructuras_de_datos_y_sentencias_iterativas/1contenido.md). A continuación, es posible realizar diversos ejercicios disponible en la siguiente ruta: [2_estructuras_de_datos_y_sentencias_iterativas/2actividades.md](./2_estructuras_de_datos_y_sentencias_iterativas/2actividades.md)
+- El contenido se encuentra disponible en la siguiente ruta: [2_estructuras_de_datos_y_sentencias_iterativas/1contenido.md](./2_estructuras_de_datos_y_sentencias_iterativas/1contenido.md)
+
+- Los ejercicios y la descripción de los ejercicios se encuentran disponible en la siguiente ruta: [2_estructuras_de_datos_y_sentencias_iterativas/2actividades.md](./2_estructuras_de_datos_y_sentencias_iterativas/2actividades.md)
 
 ### 3.Funciones y Módulos
 
-El contenido se encuentra disponible en la siguiente ruta [3_funciones_y_modulos/1contenido.md](./3_funciones_y_modulos/1contenido.md). A continuación, es posible realizar diversos ejercicios disponible en la siguiente ruta: [3_funciones_y_modulos/2actividades.md](./3_funciones_y_modulos/2actividades.md)
+- El contenido se encuentra disponible en la siguiente ruta: [3_funciones_y_modulos/1contenido.md](./3_funciones_y_modulos/1contenido.md)
+
+- Los ejercicios y la descripción de los ejercicios se encuentran disponible en la siguiente ruta: [3_funciones_y_modulos/2actividades.md](./3_funciones_y_modulos/2actividades.md)
 
 ### 4.Manejo de Excepciones
+
+- El contenido se encuentra disponible en la siguiente ruta: [4_manejo_de_excepciones/1contenido.md](./4_manejo_de_excepciones/)
+
+- Los ejercicios y la descripción de los ejercicios se encuentran disponible en la siguiente ruta: [4_manejo_de_excepciones/2actividades.md](./4_manejo_de_excepciones/2actividades.md)
 
 ### 5.Sentencias Básicas del Lenguaje Python
 

@@ -14,7 +14,7 @@
 
 ## Ejercicio 1: Filtrado de Listas
 
-En el archivo `ejercicios/1_filtrado_listas/ejercicio`, crea una función llamada `filtrar_pares` que reciba una lista de números enteros y retorne una lista solo considerando los elementos pares.
+En el archivo `ejercicios/1_filtrado_listas/ejercicio.py`, crea una función llamada `filtrar_pares` que reciba una lista de números enteros y retorne una lista solo considerando los elementos pares.
 
 ### Ejecución de tests unitarios
 
@@ -30,7 +30,7 @@ Si has aprobado todos los tests, entonces se debe mostrar el siguiente output en
 
 ## Ejercicio 2: Eliminar duplicados de lista conservando el orden
 
-En el archivo `ejercicios/2_eliminar_duplicados_preservando_orden/ejercicio`, crea una función llamada `eliminar_duplicados` que reciba una lista como parámetro y que permita eliminar los elementos duplicados pero conservando el orden.
+En el archivo `ejercicios/2_eliminar_duplicados_preservando_orden/ejercicio.py`, crea una función llamada `eliminar_duplicados` que reciba una lista como parámetro y que permita eliminar los elementos duplicados pero conservando el orden.
 
 ### Ejecución de tests unitarios
 
@@ -46,7 +46,7 @@ Si has aprobado todos los tests, entonces se debe mostrar el siguiente output en
 
 ## Ejercicio 3: Creación de diccionario y recorrido
 
-En el archivo `ejercicios/3_creacion_diccionario_recorrido/ejercicio`, crea un diccionario llamado `cliente` con las siguientes keys: `edad`,`nombre`, `ciudad` y los siguientes valores respectivos: 25, 'Luis', 'Santiago'. Posteriormente, pasa el diccionario a la función `mostrar_datos` y utilizando un bucle crea el siguiente string: "Cliente Luis, 25 años, de Santiago".
+En el archivo `ejercicios/3_creacion_diccionario_recorrido/ejercicio.py`, crea un diccionario llamado `cliente` con las siguientes keys: `edad`,`nombre`, `ciudad` y los siguientes valores respectivos: 25, 'Luis', 'Santiago'. Posteriormente, pasa el diccionario a la función `mostrar_datos` y utilizando un bucle crea el siguiente string: "Cliente Luis, 25 años, de Santiago".
 
 ### Ejecución de tests unitarios
 
