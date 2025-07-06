@@ -2,6 +2,13 @@
 
 ## Tabla de Contenidos
 
+- [Manejo de Excepciones](#manejo-de-excepciones)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+  - [Sintaxis](#sintaxis)
+  - [Manejo de cualquier tipo de excepción](#manejo-de-cualquier-tipo-de-excepción)
+  - [Manejo de excepciones particulares](#manejo-de-excepciones-particulares)
+  - [Lanzamiento de Excepciones](#lanzamiento-de-excepciones)
+
 ## Sintaxis
 
 Una excepción es un error que ocurre durante la ejecución de un programa. Cuando se produce una excepción, se interrumpe el flujo normal del programa, impidiendo su uso y Python lanza un mensaje de error (Traceback), a menos que el error sea manejado adecuadamente. A continuación se muestra un código de ejemplo que arroja error:

@@ -40,11 +40,15 @@ En el tutorial se hace una exposición de contenido desde un punto de vista teó
 
 ### 4.Manejo de Excepciones
 
-- El contenido se encuentra disponible en la siguiente ruta: [4_manejo_de_excepciones/1contenido.md](./4_manejo_de_excepciones/)
+- El contenido se encuentra disponible en la siguiente ruta: [4_manejo_de_excepciones/1contenido.md](./4_manejo_de_excepciones/1contenido.md)
 
 - Los ejercicios y la descripción de los ejercicios se encuentran disponible en la siguiente ruta: [4_manejo_de_excepciones/2actividades.md](./4_manejo_de_excepciones/2actividades.md)
 
 ### 5.Sentencias Básicas del Lenguaje Python
+
+- El contenido se encuentra disponible en la siguiente ruta: [5_sentencias_basicas/1contenido.md](./5_sentencias_basicas/1contenido.md)
+
+- Los ejercicios y la descripción de los ejercicios se encuentran disponible en la siguiente ruta: [5_sentencias_basicas/2actividades.md](./5_sentencias_basicas/2actividades.md)
 
 ### 6.Técnicas Avanzadas en Python
 
