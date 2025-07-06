@@ -1,6 +1,9 @@
 # Bienvenidos a PyLearningHub
 
 Nuestro programa busca enseñar las aspectos fundamentales del lenguaje de programación Python desde una perspectiva teórico y práctica para luego abordar diversas técnicas avanzadas de programación en Python.
+
+El contenido de este tutorial lo voy subiendo a mi nuevo blog: [https://waldohidalgo.cl/](https://waldohidalgo.cl/)
+
 Nuestro curso se divide en los siguientes tópicos los cuales contienen diversos actividades para reforzar el conocimiento teórico:
 
 ## Tabla de Contenidos
@@ -14,6 +17,7 @@ Nuestro curso se divide en los siguientes tópicos los cuales contienen diversos
     - [4.Manejo de Excepciones](#4manejo-de-excepciones)
     - [5.Sentencias Básicas del Lenguaje Python](#5sentencias-básicas-del-lenguaje-python)
     - [6.Técnicas Avanzadas en Python](#6técnicas-avanzadas-en-python)
+    - [7. Ejercicios Adicionales](#7-ejercicios-adicionales)
   - [Requisitos](#requisitos)
 
 ## Capítulos del Tutorial
@@ -55,6 +59,10 @@ En el tutorial se hace una exposición de contenido desde un punto de vista teó
 - El contenido se encuentra disponible en la siguiente ruta: [6_avanzado_python/1contenido.md](./6_avanzado_python/1contenido.md)
 
 - Los ejercicios y la descripción de los ejercicios se encuentran disponible en la siguiente ruta: [6_avanzado_python/2actividades.md](./6_avanzado_python/2actividades.md)
+
+### 7. Ejercicios Adicionales
+
+Se presenta un serie de ejercicios adicionales con su planteamiento disponibles [acá](./ejercicios_adicionales/contenido.md) y su respectiva solución para su verificación posterior en [esta ruta](./ejercicios_adicionales/soluciones/)
 
 ## Requisitos
 
