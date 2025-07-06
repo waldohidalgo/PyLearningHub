@@ -52,6 +52,10 @@ En el tutorial se hace una exposición de contenido desde un punto de vista teó
 
 ### 6.Técnicas Avanzadas en Python
 
+- El contenido se encuentra disponible en la siguiente ruta: [6_avanzado_python/1contenido.md](./6_avanzado_python/1contenido.md)
+
+- Los ejercicios y la descripción de los ejercicios se encuentran disponible en la siguiente ruta: [6_avanzado_python/2actividades.md](./6_avanzado_python/2actividades.md)
+
 ## Requisitos
 
 - Lenguaje: Python
